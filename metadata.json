@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Valentine's Day Card",
+  "description": "An interactive and animated Valentine's Day web application where a 'No' button playfully evades the user's cursor, and a 'Yes' click triggers a beautiful procedural flower blooming animation.",
+  "requestFramePermissions": []
+}
